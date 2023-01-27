@@ -1,4 +1,4 @@
-# node-api-whatsapp
+# nodejs-trading-bot-btc-usdt-binance
 > Crypto Trading Bot For Bitcoin/USDT With NodeJS & Binance API
 
 ## Technologies
